@@ -2,11 +2,11 @@
 
 🌱 I’m currently learning ...
 
-##CSS
+## CSS
 ![image](https://media0.giphy.com/media/13FrpeVH09Zrb2/giphy.gif?cid=ecf05e479lbho04jjnlv72y6iims0rlcao89xo9fs2uiguu5&rid=giphy.gif&ct=g)
-##HTML
+## HTML
 ![image](https://media1.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif?cid=ecf05e47h0vbdftoxhqzolk9t1x9l28zvdp1g50v02mcwozt&rid=giphy.gif&ct=g)
-##Javascript
+## Javascript
 ![image](https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47u3syisoi85v8ks14p96hnpr5s747u1pqkv6qd321&rid=giphy.gif&ct=g)
 
 
