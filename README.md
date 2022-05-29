@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 - Im Ylva
+
+🌱 I’m currently learning ...
+
+![image](https://media0.giphy.com/media/13FrpeVH09Zrb2/giphy.gif?cid=ecf05e479lbho04jjnlv72y6iims0rlcao89xo9fs2uiguu5&rid=giphy.gif&ct=g)
+
 
 <!--
 **YlvaLund/YlvaLund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
