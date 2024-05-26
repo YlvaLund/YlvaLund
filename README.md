@@ -1,19 +1,22 @@
 # 👋 Hi - Im Ylva.
 
 ```javascript
-function callback() {
-  return 'Whatsup!'
-}
+let person = {
+  name: "Ylva Lund",
+  sayHi: "What's up!",
+};
+let interests = [];
+interests.push("Knitting");
+interests.push("Drawing, Painting");
+interests.push("Art and Design");
 
-const presentation = async () => {
-    let person = {
-      name: 'Ylva Lund',
-      description: `
-Studying frontend development at Noroff
-`
-      sayHi: callback
-    }
-}
+person.interests = interests;
+person.presentation = () => {
+  return `${person.sayHi}, my name is ${person.name}.
+  
+  When I am not working, I find time for my wonderful family and any other free-time I like to use on ${person.interests.map((i) => i)}
+  `;
+};
 ```
 
 Check out [✨ My Portfolio Page ✨](https://ylvasportfolio.netlify.app/)
