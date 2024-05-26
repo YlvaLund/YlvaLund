@@ -1,5 +1,21 @@
 # 👋 Hi - Im Ylva.
 
+```javascript
+function callback() {
+  return 'Whatsup!'
+}
+
+const presentation = async () => {
+    let person = {
+      name: 'Ylva Lund',
+      description: `
+Studying frontend development at Noroff
+`
+      sayHi: callback
+    }
+}
+```
+
 Check out [✨ My Portfolio Page ✨](https://ylvasportfolio.netlify.app/)
 
 
